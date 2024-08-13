@@ -10,7 +10,7 @@
 </div>
 
 ## 🌐 Website
-Visit the [Advice Generator](https://stas-card.vercel.app/) to explore the live site.
+Visit the [Advice Generator](https://advice-generator-api-five.vercel.app/) to explore the live site.
 
 Visit the [Front-end Mentor](https://www.frontendmentor.io/) to explore the live site.
 
