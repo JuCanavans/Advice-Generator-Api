@@ -1,4 +1,4 @@
-# <h1 align="center">Advice Generator API | Front-end Mentor</h1>
+# <h1 align="center">Phrase Generator API | Front-end Mentor</h1>
 
 ![Desktop_Api](https://github.com/user-attachments/assets/39fe5fcb-9e4f-4201-a126-ade81cceeb04)
 
@@ -10,7 +10,7 @@
 </div>
 
 ## 🌐 Website
-Visit the [Advice Generator](https://advice-generator-api-five.vercel.app/) to explore the live site.
+Visit the [Phrase Generator](https://advice-generator-api-five.vercel.app/) to explore the live site.
 
 Visit the [Front-end Mentor](https://www.frontendmentor.io/) to explore the live site.
 
